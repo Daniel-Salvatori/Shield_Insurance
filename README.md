@@ -1,5 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/103391617/219252891-e3570092-28e0-4b01-8e0f-206bedd8203d.png" width=70% height=50% title="Health-Insurance" alt="shield_insurance_logo"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103391617/219252891-e3570092-28e0-4b01-8e0f-206bedd8203d.png" />
+</p>
 
 
 ## 1. Problema de Negócio:
