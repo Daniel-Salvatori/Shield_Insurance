@@ -1,7 +1,6 @@
 
-<img src="https://github.com/Daniel-Salvatori/Shield_Insurance/issues/1#issue-1586894610" width=70% height=50% title="Health-Insurance" alt="shield_insurance_logo"/>
+<img src="https://user-images.githubusercontent.com/103391617/219252891-e3570092-28e0-4b01-8e0f-206bedd8203d.png" width=70% height=50% title="Health-Insurance" alt="shield_insurance_logo"/>
 
-https://github.com/Daniel-Salvatori/Shield_Insurance/issues/1#issue-1586894610
 
 ## 1. Problema de Negócio:
 A Shield Insurance é uma empresa que oferece seguro de saúde para seus clientes e a equipe de produto esta analisando a possibilidade de oferecer um novo produto: o seguro de automóvel. Assim como já acontece com o seguro de saúde, os clientes dessa nova modalidade precisam pagar um valor anualmente para que tenham direito a ser indenizado caso aconteça algum acidente ou dano ao seu veículo.
