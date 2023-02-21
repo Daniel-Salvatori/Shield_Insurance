@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/103391617/219252891-e3570092-28e0-4b01-8e0f-206bedd8203d.png" />
 </p>
@@ -23,7 +24,7 @@ Ao final do projeto, um relatório será entregue contendo análise e respondend
 
 ## 2. Descrição dos dados:
 
-Foi disponibilizado pela empresa os dados dentro da plataforma de competições [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction). A base contem 381.109 clientes cadastrados que responderam a pesquisa, contendo 12 atributos conforme listado abaixo:
+Os dados foram disponibilizados pela empresa dentro da plataforma de competições [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction). A base contem 381.109 clientes cadastrados que responderam a pesquisa, contendo 12 atributos conforme listado abaixo:
 
 
 
@@ -183,6 +184,25 @@ Ao final do projeto, foi possível responder as seguintes perguntas de negócio:
 ![](img/40000calls.png)
 
 
+# 6. Deploy
+
+
+[<img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>](https://docs.google.com/spreadsheets/d/1Y57XVtg3fNUrE-RwG4VfItA0fcvoWQfJiXgnTdn1QXw/edit#gid=478180529)
+
+
+![teste_api](img/teste_api.gif)
+
+# 7. Conclusão
+
+Ao final do projeto, podemos concluir que com o modelo proposto a equipe de vendas poderá ser mais acertiva no contato com os clientes, focando primeiramente naqueles com maior propensão de compra. Isso reduzirá o custo de aquisição de clientes e aumentar o faturamento da empresa.
+
+A solução entregue via google sheets permite a possibilidade de utilizar uma nova base de dados, podendo simular perfis de clientes e gerar novas análises pertinentes ao negócio.
+
+# 8. Próximos passos
+
+- Utilizar técnicas de balanceamento de dados.
+- Coletar mais dados dos clientes e/ou criar novas features afim de melhorar a performance do modelo.
+- Utilizar método mais robusto para encontrar os melhores parâmetros para o modelo.
 
 
 
