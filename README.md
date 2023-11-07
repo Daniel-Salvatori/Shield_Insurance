@@ -100,7 +100,7 @@ Para esse projeto que trata-se de um problema de "learn to rank" as métricas es
 
 - **Precisão@K:** Propoção de clientes recomendados no conjunto K que são relevantes dada pela fórmula:
 
-![](img/p@K.png)
+![](img/P@K.png)
 
 - **Recall@K:** Proporção de clientes relevantes no conjunto K, dado pela fórmula:
 
